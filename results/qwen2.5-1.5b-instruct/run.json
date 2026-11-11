@@ -1,0 +1,14 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "prompts": 128,
+  "max_new": 1024,
+  "seed": 0,
+  "configs": [
+    "fp32",
+    "bf16",
+    "fp16",
+    "q8",
+    "q4"
+  ],
+  "temperature": 1.0
+}

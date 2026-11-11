@@ -1,0 +1,10 @@
+{
+  "bf16": {
+    "replayed": 8,
+    "identical": 8
+  },
+  "fp16": {
+    "replayed": 8,
+    "identical": 8
+  }
+}
